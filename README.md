@@ -12,3 +12,12 @@ loading
 ## request waterfall
 ## parallel data fetching
 ## static and dynamic rendering
+## combine static rendering, dynamic rendering, and streaming in the same route with Partial Prerendering (PPR).
+## static and dynamic routes
+## implemented ppr-> partial pre rendering---- reverted
+## pagination and search
+## search with url params
+## debouncing is a programming practice that limits the rate at which a function can fire. In our case, you only want to query the database when the user has stopped typing.-----using debounce library
+
+
+
