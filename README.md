@@ -18,6 +18,8 @@ loading
 ## pagination and search
 ## search with url params
 ## debouncing is a programming practice that limits the rate at which a function can fire. In our case, you only want to query the database when the user has stopped typing.-----using debounce library
-
+## Server Actions
+## An advantage of invoking a Server Action within a Server Component is progressive enhancement - forms work even if JavaScript has not yet loaded on the client. 
+## zod------ a TypeScript-first validation library
 
 
