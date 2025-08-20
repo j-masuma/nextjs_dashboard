@@ -21,5 +21,6 @@ loading
 ## Server Actions
 ## An advantage of invoking a Server Action within a Server Component is progressive enhancement - forms work even if JavaScript has not yet loaded on the client. 
 ## zod------ a TypeScript-first validation library
+So, authentication checks who you are, and authorization determines what you can do or access in the application.
 
 
