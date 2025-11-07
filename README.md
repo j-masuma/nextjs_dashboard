@@ -21,3 +21,10 @@ zod------ a TypeScript-first validation library
 So, authentication checks who you are, and authorization determines what you can do or access in the application.
 
 
+
+
+
+
+Use credentials to login
+Email: user@nextmail.com
+Password: 123456
